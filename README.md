@@ -34,7 +34,7 @@ Open http://localhost:5173.
 ## Test flow
 
 1. Use manual Session ID `DEMO-1001` (or use the ZXing camera scanner with a barcode containing that text).
-2. Review the cart total (€34.00) and continue.
+2. Review the cart total (₱34.00) and continue.
 3. Select simulated QR or NFC.
 4. For QR, scan the displayed code or click **Approve on this device**. The phone-friendly mock URL is served by the backend.
 5. For NFC, enter any four digits and detect the simulated NFC tag.
